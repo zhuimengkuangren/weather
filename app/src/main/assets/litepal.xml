@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="weather_db"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.zhuimeng.weather.db.Province"/>
+        <mapping class="com.zhuimeng.weather.db.City"/>
+        <mapping class="com.zhuimeng.weather.db.County"/>
+    </list>
+</litepal>
